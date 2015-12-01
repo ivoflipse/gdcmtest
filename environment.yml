@@ -1,8 +1,9 @@
-name: gdcmtest
+name: gdcmtest2
 dependencies:
 - gdcm
 - jupyter
 - matplotlib
 - notebook
 - numpy
-- python=3.5
+- python=2.7
+- pydicom
