@@ -1,6 +1,0 @@
-python
-gdcm
-numpy
-jupyer
-notebook
-matplotlib
